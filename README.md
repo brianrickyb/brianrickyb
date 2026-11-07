@@ -10,7 +10,7 @@ I care about interfaces that feel right and about the systems underneath them no
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Sembako Terminal** *(repo private for now)* | Staple-food price monitoring for procurement analysts: 22 commodities, 6 cities, official PIHPS data, plus five n8n workflows for AI reports with two-layer guardrails and human approval in Telegram | Next.js, TypeScript, PostgreSQL, n8n, Gemini / Claude API |
+| **Sembako Terminal** *(repo private for now)* | Staple-food price monitoring for procurement analysts: 22 commodities, 6 cities, official PIHPS data, plus AI reports with two-layer guardrails and human approval in Telegram, now being wired up in n8n | Next.js, TypeScript, PostgreSQL, n8n, Gemini / Claude API |
 | [**Meridian**](https://github.com/brianrickyb/dlmm-analytic-dashboard) | Analytics for Meteora DLMM liquidity pools on Solana, with an impermanent-loss/net-yield calculator, news feed, and long/short screener | React 19, Fastify 5, Supabase |
 | [**Unilever Indonesia Carbon Dashboard**](https://github.com/brianrickyb/unilever-indonesia-carbon-dashboard) | Independent Scope 1/2/3 emissions analysis from public sustainability reports that treats unreported values as unknown, never zero ([live](https://unilever-indonesia-carbon-dashboard.vercel.app/)) | JavaScript, Node.js, Vercel |
 | [**GoFit**](https://github.com/brianrickyb/gofit-gamification) | My thesis: a gym membership app gamified with XP, badges, and challenges, grounded in MDA and Self-Determination Theory ([live](https://gofit-gamification.vercel.app/)) | React 18, TypeScript, Firebase |

@@ -14,7 +14,7 @@ I care about interfaces that feel right and about the systems underneath them no
 | [**Meridian**](https://github.com/brianrickyb/dlmm-analytic-dashboard) | Analytics for Meteora DLMM liquidity pools on Solana, with an impermanent-loss/net-yield calculator, news feed, and long/short screener | React 19, Fastify 5, Supabase |
 | [**Unilever Indonesia Carbon Dashboard**](https://github.com/brianrickyb/unilever-indonesia-carbon-dashboard) | Independent Scope 1/2/3 emissions analysis from public sustainability reports that treats unreported values as unknown, never zero ([live](https://unilever-indonesia-carbon-dashboard.vercel.app/)) | JavaScript, Node.js, Vercel |
 | [**GoFit**](https://github.com/brianrickyb/gofit-gamification) | My thesis: a gym membership app gamified with XP, badges, and challenges, grounded in MDA and Self-Determination Theory ([live](https://gofit-gamification.vercel.app/)) | React 18, TypeScript, Firebase |
-| [**Gambling comment detection**](https://github.com/brianrickyb/online-gambling-ml-analysis) | NLP classifier for gambling spam in Indonesian YouTube comments (TF-IDF + Linear SVM, 97.6% accuracy) | Python, scikit-learn |
+| [**Gambling comment detection**](https://github.com/brianrickyb/online-gambling-ml-analysis) | NLP classifier for gambling spam in Indonesian YouTube comments (TF-IDF + Logistic Regression, 99.1% accuracy, 90.4% recall on unseen gambling sites) | Python, scikit-learn, FastAPI, Docker |
 
 ## Tech I work with
 
